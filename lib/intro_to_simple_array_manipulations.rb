@@ -12,4 +12,15 @@ def using_uniq(array)
   
 end
 
-def using_flatten()
+def using_flatten(array)
+  
+end
+
+def using_delete(array, string)
+  
+end
+
+def using_delete_at(array, int)
+  
+end
+  
